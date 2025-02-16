@@ -1,0 +1,6 @@
+.env
+venv
+new-blog-post.md
+output_log_raw.txt
+output_log_clean.txt
+__pycache__
